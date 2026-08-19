@@ -6,7 +6,7 @@ import { IoSend } from "react-icons/io5";
 import { io } from 'socket.io-client';
 import axios from 'axios';
 
-const BACKEND_URL = 'https://portfolio-challakolusuvenkatanaveen.onrender.com';
+const BACKEND_URL = 'https://portfolio-challakolusuvenkatanaveen-lw95.onrender.com';
 
 const quickReplies = [
   "What skills do you have?",
